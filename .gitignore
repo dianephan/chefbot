@@ -1,0 +1,5 @@
+.env
+app2.py
+requirements.txt
+/venv
+__pycache__
